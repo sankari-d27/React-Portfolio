@@ -45,7 +45,7 @@ const Home = () => {
               </button>
 
               <a
-                href="/resume.pdf"
+                href={`${import.meta.env.BASE_URL}resume.pdf`}
                 download="resume.pdf"
                 className="px-10 py-4 rounded-full font-semibold text-lg border border-cyan-400 text-cyan-400 hover:bg-cyan-400 hover:text-black transition-all duration-300 shadow-[0_0_30px_rgba(34,211,238,0.4)]"
               >
