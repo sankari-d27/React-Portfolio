@@ -4,7 +4,6 @@ import About from "./About";
 import Projects from "./Projects";
 import Contact from "./Contact";
 import profile from '../assets/profile.jpg'
-import resume from '../assets/resume.pdf'
 
 const Home = () => {
 
