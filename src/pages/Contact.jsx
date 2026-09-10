@@ -54,7 +54,7 @@ const Contact = () => {
 
           <p className="text-lg font-semibold text-white">👋 Let's Connect</p>
 
-          <p>📧 Email: sankaridhakshna@gmail.com</p>
+          <p>📧 Email: dpsankari27@gmail.com</p>
 
           <p>📱 Phone: +91-9566331020</p>
 
