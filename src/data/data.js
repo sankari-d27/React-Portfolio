@@ -4,8 +4,6 @@ export const skills = [
   "TypeScript",
   "Tailwind CSS",
   "Bootstrap",
-  "MySQL",
-  "REST APIs",
   "Git",
   "GitHub",
   "CSS3",
@@ -53,7 +51,7 @@ export const experienceData = [
     company: "GEM Software Solution Ltd. | SL Lumax",
     duration: "2013 - 2015",
     description: [
-      "Non-IT - E-Pub Developer.",
+      "E-Pub Developer.",
     ],
   },
 ];

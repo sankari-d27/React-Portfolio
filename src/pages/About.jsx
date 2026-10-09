@@ -166,7 +166,7 @@ const About = () => {
                 <br />
                 • Convert designs into modern UIs
                 <br />
-                • Integrate REST APIs
+                • Asynchronous Data Handling
                 <br />
                 • Optimize frontend performance
               </p>
@@ -175,34 +175,39 @@ const About = () => {
 
 
 
-            {/* Currently Learning */}
+            {/* Frontend Highlights */}
             <div className="rounded-xl bg-white/5 border border-white/10 p-5">
 
               <h4 className="text-lg font-semibold text-cyan-400 mb-3">
-                Currently Learning
+                Frontend Highlights
               </h4>
 
               <p className="text-gray-300 text-sm leading-7">
-                Expanding backend development skills with:
+                Focused on building efficient and maintainable user interfaces:
                 <br />
 
                 <span className="text-cyan-400 font-medium">
-                  Node.js
+                  Reusable Components
                 </span>
                 {" • "}
 
                 <span className="text-pink-400 font-medium">
-                  Express.js
+                  Responsive Design
                 </span>
                 {" • "}
 
                 <span className="text-purple-400 font-medium">
-                  MongoDB
+                  Performance Optimization
                 </span>
+                {" • "}
 
+                <span className="text-green-400 font-medium">
+                  UI Consistency
+                </span>
               </p>
 
             </div>
+
 
 
           </div>
